@@ -1,8 +1,8 @@
 # Parallax Hedge — Arcus × RHC Lighter / Entropy 对冲刷量控制台
-如果你还尚未注册交易所，欢迎用在金的邀请链接，万分感谢🙏
-Arcus 注册链接：https://app.arcus.xyz/ref/ZAIJIN
-RBH Lighter 注册链接：https://robinhoodchain.lighter.xyz/?referral=ZAIJIN&source=none
-Entropy 注册链接：https://entropy.io/?r=zaijin
+# 如果你还尚未注册交易所，欢迎用在金的邀请链接，万分感谢🙏
+- **Arcus 注册链接**：https://app.arcus.xyz/ref/ZAIJIN
+- **RBH Lighter 注册链接**：https://robinhoodchain.lighter.xyz/?referral=ZAIJIN&source=none
+- **Entropy 注册链接**：https://entropy.io/?r=zaijin
 
 # Arcus × RHC Lighter 对冲刷量控制台：
 在 **Arcus** 和 **Robinhood Chain 上的 Lighter** 之间开一对方向相反、数量相同的永续仓位（一边多、一边空），
