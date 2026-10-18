@@ -1,5 +1,10 @@
-# Parallax Hedge — Arcus × RHC Lighter 对冲刷量控制台
+# Parallax Hedge — Arcus × RHC Lighter / Entropy 对冲刷量控制台
+如果你还尚未注册交易所，欢迎用在金的邀请链接，万分感谢🙏
+Arcus 注册链接：https://app.arcus.xyz/ref/ZAIJIN
+RBH Lighter 注册链接：https://robinhoodchain.lighter.xyz/?referral=ZAIJIN&source=none
+Entropy 注册链接：https://entropy.io/?r=zaijin
 
+# Arcus × RHC Lighter 对冲刷量控制台：
 在 **Arcus** 和 **Robinhood Chain 上的 Lighter** 之间开一对方向相反、数量相同的永续仓位（一边多、一边空），
 按设定的周期轮换开平，用尽量低的磨损产生交易量；持仓期间顺带收两所之间的资金费差。
 
@@ -148,7 +153,7 @@ python -m pytest
 [MIT](LICENSE)
 
 
-# Parallax Hedge — Arcus × Entropy 对冲刷量控制台
+# Arcus × Entropy 对冲刷量控制台：
 
 在 **Arcus** 和 **Entropy**（Hyperliquid 上的 HIP-3 子交易所 `io`，只支持逐仓）之间开一对方向相反、数量相同的永续仓位
 （一边多、一边空），按设定的周期轮换开平，用尽量低的磨损产生交易量；持仓期间顺带收两所之间的资金费差。
