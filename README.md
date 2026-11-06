@@ -3,6 +3,22 @@
 - **Arcus 注册链接**：https://app.arcus.xyz/ref/ZAIJIN
 - **RBH Lighter 注册链接**：https://robinhoodchain.lighter.xyz/?referral=ZAIJIN&source=none
 - **Entropy 注册链接**：https://entropy.io/?r=zaijin
+  
+## 🆕 最新版本 v1.12.0（2026-11-06）
+
+| 程序 | 下载 | 更新说明 |
+| --- | --- | --- |
+| Arcus × Entropy | [Parallax-Hedge-Arcus-Entropy-OpenSource-v1.12.0.zip](Parallax-Hedge-Arcus-Entropy-OpenSource-v1.12.0.zip) | [更新说明-Arcus-Entropy-v1.12.0.md](更新说明-Arcus-Entropy-v1.12.0.md)（1.6.0 → 1.12.0） |
+| Arcus × RHC Lighter | [Parallax-Hedge-Arcus-Lighter-OpenSource-v1.12.0.zip](Parallax-Hedge-Arcus-Lighter-OpenSource-v1.12.0.zip) | [更新说明-Arcus-Lighter-v1.12.0.md](更新说明-Arcus-Lighter-v1.12.0.md)（1.5.1 → 1.12.0） |
+
+**这一版主要新增：**
+
+- **少亏**：基差监控页 + 回测、择时开仓 / 择时平仓、按盘口深度限额、浮盈止盈、资金不足自动缩仓
+- **不留裸腿**：先平对冲所再平 Arcus、平仓回滚、Arcus 盘后价格带处理、下单通道熔断、孤腿抢救更稳
+- **程序掉线也有人管**：交易所保护单 —— 断网 / 关机时由交易所把两条腿一起平掉
+
+**老用户升级**：解压新版本覆盖到旧目录，**保留你自己的 `.env` 和 `data/` 文件夹**，重新双击 `一键启动.bat` 即可，新设置会自动补进 `.env`。
+升级后第一次实盘，请到两个交易所的条件单列表里确认保护单已经挂上。
 
 # Arcus × RHC Lighter 对冲刷量控制台：
 在 **Arcus** 和 **Robinhood Chain 上的 Lighter** 之间开一对方向相反、数量相同的永续仓位（一边多、一边空），
